@@ -1,31 +1,31 @@
 {
   "posts": [
     {
-    "userId": u1,
+    "userId": "u1",
     "id": 1,
     "title": "hi",
     "body": "hi"
   },
     {
-    "userId": u2,
+    "userId": "u2",
     "id": 2,
     "title": "hello",
     "body": "hello"
   },
     {
-    "userId": u3,
+    "userId": "u3",
     "id": 3,
     "title": "welcome",
     "body": "hi"
   },
     {
-    "userId": u4,
+    "userId": "u4",
     "id": 4,
     "title": "tata",
     "body": "tata"
   },
     {
-    "userId": u5,
+    "userId": "u5",
     "id": 5,
     "title": "hello...",
     "body": "hi...."
